@@ -4,7 +4,7 @@
 // var mul=function(a,b){return a*b;}
 // console.log(mul(2,15));
 
-// tesrtfhjgk
+// tesrtfhjgksasfa
 var add=function(){
     var ar=arguments;
     var res=0;
