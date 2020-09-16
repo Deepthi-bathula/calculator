@@ -13,8 +13,7 @@ res += ar[i];
 }
 return res;
 }
-if(){}
-//sadguagdsa
+//sub
 var sub=function(){
     var ar=arguments;
     var res=ar[0];
