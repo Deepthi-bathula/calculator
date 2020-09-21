@@ -89,7 +89,15 @@
 // function max(a,b){
 // return(a>b)?a:b;
 // }
-showStars(5);
-function showStars(rows){
-}
+// showStars(5);
+// function showStars(rows){
+// }
+function add(){
+    console.log(this);
+    console.log(arguments);
 
+}
+let r = [6,7,8]
+let sum=add.bind(add,r)
+sum();
+document.g
